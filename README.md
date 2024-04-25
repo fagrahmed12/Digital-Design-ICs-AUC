@@ -1,6 +1,6 @@
 #  Digital-Design-ICs-AUC
 ## Fundamental Module
-### 1. Intro to Digital Design.<br><br>
+### [1. Intro to Digital Design.<br><br>][https://documents.aucegypt.edu/Docs/SSE/CND111_For%20Webpage_Intro%20Digital%20f.pdf]
         Learning Outcomes:
         • Acquire logic design knowledge for advanced study topics related to computer architecture, microprocessor systems, VLSI design, design automation, etc.
         • Perform basic logic circuit design and minimization including both combinational and sequential circuits.
