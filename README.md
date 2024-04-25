@@ -1,6 +1,6 @@
 #  Digital-Design-ICs-AUC
-
-## 1. Intro to Digital Design.<br><br>
+## Fundamental Module
+### 1. Intro to Digital Design.<br><br>
      Learning Outcomes:
         • Acquire logic design knowledge for advanced study topics related to computer architecture, microprocessor systems, VLSI design, design automation, etc.
         • Perform basic logic circuit design and minimization including both combinational and sequential circuits.
@@ -17,6 +17,6 @@
         • Lab 6: Sequential Circuits: Counters and Shift Registers
         • Lab 7: Arithmetic Circuits
         • Lab 8: Controllers and Finite State Machines
-## 2. Intro to Analog Design.<b><b>
+### 2. Intro to Analog Design.<b><b>
 
-## 3. Intro to Silicon Process and VLSI.<b><b>
+### 3. Intro to Silicon Process and VLSI.<b><b>
