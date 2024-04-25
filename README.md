@@ -25,4 +25,3 @@
 ### 1. Advanced Digital Design.<br><br>
 ### 2. Advanced Full Custom VLSI Design.<b><b>
 ### 3. Digital Testing and Verification.<b><b>
-### 3. Intro to Silicon Process and VLSI.<b><b>
