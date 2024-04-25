@@ -1,14 +1,14 @@
 #  Digital-Design-ICs-AUC
 ## Fundamental Module
 ### 1. Intro to Digital Design.<br><br>
-     Learning Outcomes:
+Learning Outcomes:
         • Acquire logic design knowledge for advanced study topics related to computer architecture, microprocessor systems, VLSI design, design automation, etc.
         • Perform basic logic circuit design and minimization including both combinational and sequential circuits.
         • Perform design of finite state machine and arithmetic circuit design.
         • Understand the timing constraints of digital circuits.
         • Use hardware description language Verilog and EDA design tools to perform modern digital circuit design.
         • Use the FPGA development board and design flow to implement digital systems.
-     Labs:
+Labs:
         • Lab 1: Introduction to FPGA Design Flow
         • Lab 2: Implementing Multi-function Gate
         • Lab 3: Binary Adders<br><br>
