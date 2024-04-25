@@ -1,5 +1,5 @@
-####  Digital-Design-ICs-AUC
-Digital Design ICs AUC
+#  Digital-Design-ICs-AUC
+
 ## 1. Intro to Digital Design.<br><br>
      Learning Outcomes:
         • Acquire logic design knowledge for advanced study topics related to computer architecture, microprocessor systems, VLSI design, design automation, etc.
