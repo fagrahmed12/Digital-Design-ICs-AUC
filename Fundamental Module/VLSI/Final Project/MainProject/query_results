@@ -1,0 +1,4 @@
+mgc_rve_context_lcv "VLSIPROJECT" "ANDOR" "layout" 1000
+mgc_rve_delete_markers
+me 2 23.35 12.58 23.36 12.58 23.35 12.58 23.36 12.58
+mgc_rve_zoom 23.348 12.58 23.362 12.58 1
